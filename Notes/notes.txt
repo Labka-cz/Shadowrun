@@ -1,0 +1,22 @@
+Citadel Corporation
+===================
+- autor turingovsky [asi] kompletni AI DeusEx, ktera se z nejakeho duvodu upnula na Razzyho postavu
+- nevedi, ze jim AI zdrhla
+- AI se ve skutecnosti snazi dostat pres fyzickou barieru do Triage Klinik, kde ma domluveneho zbehleho doktora, ktery by ji pomohl s implantaci do rozhrani lidskeho mozku kouzelnika, cimz by AI mohla zacit zkoumat astral
+- dlouhy beh
+
+Zkusena postava jako Johnson
+============================
+- zranit postavy nejak, aby se dostaly na kliniku, kde dela Zee
+- Zee ma vychytane doma v anarcho casti mesta, s primym napojenim do tundelu UBanu
+- ma podezreni, ze na jeji klinice se deje neco nekaleho
+- poprosi postavy, zda by se nemohly podivat co se deje [prvni run]
+>>> pro prvni run to bude zmena identity znameho vraha
+>>> spolupracujici hacker [maka pro kliniku a nechce prodat data snadno] - ukrast, jakkoliv
+>>> relativne hezka odmena za dopadeni vraha [souboj, honicka auty]
+
+- klinika vyndava nelegalne cyberware z umirajicich a prodava jej na cernem trhu
+- taky obchoduje s ghouly
+- implantuje cerne implantaty a opravuje gunShotWounds bez registrace
+- meni identity
+>>> brat jako ruzne levely toho, co se postavy mohou dozvedet
