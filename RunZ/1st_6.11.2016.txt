@@ -1,0 +1,43 @@
+Vrele pozdravy z Amsterdamu, 1st Run, 6.11.2016
+=======
+Postavy: Sergej 100kurev, Scotty Lýhal
+Cas: 5.11.2067
+Misto: Amsterdam
+Pravidla: bez
+Zapis: Overdrive [GM] s kocovinou
+
+Scotty takhle vecer vypadnul z univerzity, kde se mu konecne zacaly darit pokusy s umelou inteligenci nad mestskou senzorickou siti, coz mu za tu dobu, co se s tim sral, pripadlo jako maly zazrak.
+Nasednul na kolo a vydal se na okraj Amsterdamu aby si, jak se tesil, dal po studene podzimni vyjizdce horkou sprchu.
+Vchodove dvere byly sice jeste otevrene, ale branka od uschovny kol mela asi zas jednou rozbity zamek. ACESS DENIED na dverich od bytu uz zdaleka nebyl takova sranda.
+Jasne, asi se zas v servervone premazal klic, to se obcas stava. Na univerzite je dalsi, a taky se tam da kdyztak vyspat. Ale ouha, brana university se neotevrela, stejne jako garaze a zadni vchod. Otisk prstu ani sitnice, nic.
+V prvnim hotelu se nepodarilo zaplatit prevodem z uctu, az nakonec uplne na okraji Amstru se podari uplatnit par offline Coinu u pani, ktera mluvila anglicky i holandsky s jakymsi vychodoevropskym prizvukem, na nose mela bradavici a na ni chlup. Stara carodejnice nastesti nechtela zadne overeni totoznosti, jen ji zajimalo, jestli Scotty zustane na hodinu nebo dyl a jestli by nahodou nepotreboval spolecnost [kdyz si predstavil jeji dceru, radej to vzdal].
+Obchazeni po pokoji, spinavem a plnem svabu, prehrabovani ve vecech, pocitani drobnych, prechazeni po pokoji.
+Policejni stanice, jasne, tohle prece nemuze byt normalni, proste se neco nekde podelalo, a ourady to nejaky vyresi, rek si mlady programator s nedostatkem znalosti textu Franze Kafky.
+Jasne, jenze policejni stanice chce otisk prstu, sitnice nebo jinou identifikaci, a ta -zcela kupodivu- nezafungovala.
+Dlazebni kostka do okna? Dlazebni kostka do okna!
+Noc na cele, obvineni z ilegalni imigrace, vyplnene formulare, odber DNA a rano znova v ulicich.
+
+Mezitim na jinem miste Amsterdamu posedava Sergej 100kurev v domacim baru Epoxidovej Svab, kde uz par piv vypil. Nohy na stole, pivo. Prichazi zakaznik, posle par Coinu, pod stolem se mihne ruka s balickem, chlapek v siltovce a cernejch brejlich spokojene odchazi a Sergejovi se rozsiri usmev o trosku vic. Prijde Alice, ze uz to zkoncila s Bobem, a jestli nepujdou spolcne do squattu v byvale mestske zoo, kde ma snad prej hrat Vitalij Chernobil a Hriby. Jo a prej jestli by si nemohla od nej dat caru, ze mu to vrati po konziku.
+Sergej se spokojene skleby, vezme Alici pod pazi, nasednou do kradeneho Volva a vyrazi na konzik do Zoo.
+Vitalij to zas vali, predkapela TermoSka, tedy eskimacke ska, ve kterem zpevak opjevuje vsechny kraje kde neni snih a kosa, docela nasadila ladku, hluk kulminuje.
+Alice se mota kolem nejakyho korena na baru postavenym z navarenych zbytku mrizi a kabic od psich granuli a prezevsechno se Sergej nudi, kdyz se k nemu pritoci holka s docela dost otevrenou sitovou navstivenkou, ktera ji identifikuje jako Zee, doktorku z kliniky Triage.
+Chvilka ticheho hovoru a nekolik lahvicek lekarsky cisteho ketaminu putuje do baglu s cervenym krizem, ktery se Zee houpe u boku do rytmu straslivych uderu neuralniho EBM.
+Zee je vcelku kost, elfka s vlasama bilejma jak stara kost, usima probodanejma tolika piercingama, ze to akorat zvyraznuje jak jsou nezne spicaty, kanady, kargo kapsace, natelnik. Kerka cervenyho krize na pravym rameni. Tvrda holka, co ma styl, a je dobre zivena.
+Chvilka povidani, vymena kontaktu. Pak prijde nalita Alice a cely to pokazy. Jde se soustat a nakonec to nani az zas tak spatny, taky kvuli tomu, ze pokoj bez blech meli jen pro sebe.
+Horsi je pak rano... kocovina, Alice pryc, bagl pryc, drogy pryc.
+No jo no, jako by se neco zmenilo. Asi bude stacit zavolat Bobovi, aby ji trosku domluvil, ale komu by se chtelo.
+Vzpomene si na Zee, ale neni ve stavu, kdy by se mu s tim neco chtelo delat.
+
+Scotty ma za sebou noc na fizlarne, ale je z toho celej nesvuj, prochladlej, rano je sedivy. Ping, ozve se commlink. Ale, konecne, ze by zacala fungovat komunikace? To bylo vlastne vcera skoro to nejhorsi, ze neslo nikomu zavolat, nikomu napsat, jako by zdechla cela Amsterdamska sit.
+Dohajzlu co je zas tohle. GitHub mu posila nejaky drobny a info o tom, ze za noc commitnul nejvetsi mnozstvi kodu ze vsechn ocnich navstevniku. Z cely zasrany planety.
+Coze? Vzdyt prece celou dobu hnil v ciste ale nepripojene cele, co je zas tohle.
+"Blame", posle mentalni command repozitarum... kupodivu klice sedi, a jsou jeho. WTF?!
+Zacne si psat dennik. Aktivuje vsechny pridane funkce sveho obleceni: krokomer v botach, senzor tlaku a povrchoveho napeti kuze v kalhotach, merak srdecniho tepu a dechove frkvence v kosili, prida timestamp kazdych 300ms z NTP stratum2 a sifrovanou vezi odesila do skryteho repozitare na GitHubu.
+Hele GitHub, vzdyt tam prece ma rozepsanou Mestskou Senzorickou Sit, ktera uz ted poskytuje API temer na vsechny komunikacni prostredky, ktere bezni lidi pouzivaj. V jedne knihovne se vali dokonce temer uplny bot pro pripojeni na ciste textove IRC. No fakt, v roce 2067. Sam tomu neveri, ale podari se mu bota prepsat tak, aby se vyhnul podivnym zakazum, ktere zda se, napadly jeho datove prenosy [rad by veril, ze v opilosti jen blbe nakonfiguroval sve osobni firewally, ale ...], kazdopadne bot mu umozni mluvit v #Edenu.
+Sqatterske Hackerspace ve starem skleniku ze steelplastu v byvale botanicke zahrade kousek od stareho zidovskeho mesta.
+Online je jen Tetris [skladam svou osobnost z dilku, a kdyz to sedne, dostavam za to body].
+Dobra holka, ale svihla ja istambulske pocasi, zrzka s prirozenym nadanim pro techniku, ktere u ni vzdycky obdivoval, sand je moc kurva, na jeho meritka. Tohle vazne neni jeho salek kavy, ale...
+
+Ke svemu bytu dorazi jen chvilku po ni, a jen kouka jak se mu nejakejma sondama hrabe v zamku, ktery zachvilicku udela tiche click a pusti je oba dovnitr.
+Nabidne ji
+
