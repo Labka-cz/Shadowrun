@@ -17,41 +17,44 @@ Jasne, jenze policejni stanice chce otisk prstu, sitnice nebo jinou identifikaci
 Dlazebni kostka do okna? Dlazebni kostka do okna!
 Noc na cele, obvineni z ilegalni imigrace, vyplnene formulare, odber DNA a rano znova v ulicich.
 
-Mezitim na jinem miste Amsterdamu posedava Sergej 100kurev v domacim baru Epoxidovej Svab, kde uz par piv vypil. Nohy na stole, pivo. Prichazi zakaznik, posle par Coinu, pod stolem se mihne ruka s balickem, chlapek v siltovce a cernejch brejlich spokojene odchazi a Sergejovi se rozsiri usmev o trosku vic. Prijde Alice, ze uz to zkoncila s Bobem, a jestli nepujdou spolcne do squattu v byvale mestske zoo, kde ma snad prej hrat Vitalij Chernobil a Hriby. Jo a prej jestli by si nemohla od nej dat caru, ze mu to vrati po konziku.
-Sergej se spokojene skleby, vezme Alici pod pazi, nasednou do kradeneho Volva a vyrazi na konzik do Zoo.
-Vitalij to zas vali, predkapela TermoSka, tedy eskimacke ska, ve kterem zpevak opjevuje vsechny kraje kde neni snih a kosa, docela nasadila ladku, hluk kulminuje.
-Alice se mota kolem nejakyho korena na baru postavenym z navarenych zbytku mrizi a kabic od psich granuli a prezevsechno se Sergej nudi, kdyz se k nemu pritoci holka s docela dost otevrenou sitovou navstivenkou, ktera ji identifikuje jako Zee, doktorku z kliniky Triage.
+Mezitim na jinem miste Amsterdamu posedava Sergej 100kurev v domovskem baru Epoxidovej Svab, kde uz par piv vypil. Nohy na stole, pivo. Prichazi zakaznik, posle par Coinu, pod stolem se mihne ruka s balickem, chlapek v siltovce a cernejch brejlich spokojene odchazi a Sergejovi se rozsiri usmev o trosku vic. Prijde Alice, ze uz to zkoncila s Bobem, a jestli nepujdou spolcne do squattu v byvale mestske zoo, kde ma snad prej hrat Vitalij Chernobil a Hriby. Jo a prej jestli by si nemohla od nej dat caru, ze mu to vrati po konziku.
+Sergej se spokojene sklebi, vezme Alici pod pazi, nasednou do kradeneho Volva a vyrazi na konzik do Zoo.
+Vitalij to zas vali, predkapela TermoSka, tedy eskimacke ska, ve kterem zpevak opevuje vsechny kraje kde neni snih a kosa, docela nasadila latku, hluk kulminuje.
+Alice se mota kolem nejakyho korena na baru postavenym z navarenych zbytku mrizi a kabic od psich granuli a prezevsechno se Sergej nudi, kdyz se k nemu pritoci holka s docela dost otevrenou PAN navstivenkou, ktera ji identifikuje jako Zee, doktorku z kliniky Triage.
 Chvilka ticheho hovoru a nekolik lahvicek lekarsky cisteho ketaminu putuje do baglu s cervenym krizem, ktery se Zee houpe u boku do rytmu straslivych uderu neuralniho EBM.
-Zee je vcelku kost, elfka s vlasama bilejma jak stara kost, usima probodanejma tolika piercingama, ze to akorat zvyraznuje jak jsou nezne spicaty, kanady, kargo kapsace, natelnik. Kerka cervenyho krize na pravym rameni. Tvrda holka, co ma styl, a je dobre zivena.
-Chvilka povidani, vymena kontaktu. Pak prijde nalita Alice a cely to pokazy. Jde se soustat a nakonec to nani az zas tak spatny, taky kvuli tomu, ze pokoj bez blech meli jen pro sebe.
+Zee je vcelku cool, elfka s vlasama bilejma jak stara kost, usima probodanejma tolika piercingama, ze to akorat zvyraznuje jak jsou nezne spicaty, kanady, kargo kapsace, natelnik. Kerka cervenyho krize na pravym rameni. Tvrda holka, co ma styl, a je dobre zivena.
+Chvilka povidani, vymena kontaktu. Pak prijde nalita Alice a cely to pokazi. Jde se soustat a nakonec to nani az zas tak spatny, taky kvuli tomu, ze pokoj bez blech meli jen pro sebe.
 Horsi je pak rano... kocovina, Alice pryc, bagl pryc, drogy pryc.
 No jo no, jako by se neco zmenilo. Asi bude stacit zavolat Bobovi, aby ji trosku domluvil, ale komu by se chtelo.
 Vzpomene si na Zee, ale neni ve stavu, kdy by se mu s tim neco chtelo delat.
 
 Scotty ma za sebou noc na fizlarne, ale je z toho celej nesvuj, prochladlej, rano je sedivy. Ping, ozve se commlink. Ale, konecne, ze by zacala fungovat komunikace? To bylo vlastne vcera skoro to nejhorsi, ze neslo nikomu zavolat, nikomu napsat, jako by zdechla cela Amsterdamska sit.
-Dohajzlu co je zas tohle. GitHub mu posila nejaky drobny a info o tom, ze za noc commitnul nejvetsi mnozstvi kodu ze vsechn ocnich navstevniku. Z cely zasrany planety.
+Dohajzlu co je zas tohle. GitHub mu posila nejaky drobny a info o tom, ze za noc commitnul nejvetsi mnozstvi kodu ze vsechn nocnich navstevniku... z cely zasrany planety.
 Coze? Vzdyt prece celou dobu hnil v ciste ale nepripojene cele, co je zas tohle.
 "Blame", posle mentalni command repozitarum... kupodivu klice sedi, a jsou jeho. WTF?!
-Zacne si psat dennik. Aktivuje vsechny pridane funkce sveho obleceni: krokomer v botach, senzor tlaku a povrchoveho napeti kuze v kalhotach, merak srdecniho tepu a dechove frkvence v kosili, prida timestamp kazdych 300ms z NTP stratum2 a sifrovanou vezi odesila do skryteho repozitare na GitHubu.
-Hele GitHub, vzdyt tam prece ma rozepsanou Mestskou Senzorickou Sit, ktera uz ted poskytuje API temer na vsechny komunikacni prostredky, ktere bezni lidi pouzivaj. V jedne knihovne se vali dokonce temer uplny bot pro pripojeni na ciste textove IRC. No fakt, v roce 2067. Sam tomu neveri, ale podari se mu bota prepsat tak, aby se vyhnul podivnym zakazum, ktere zda se, napadly jeho datove prenosy [rad by veril, ze v opilosti jen blbe nakonfiguroval sve osobni firewally, ale ...], kazdopadne bot mu umozni mluvit v #Edenu.
-Sqatterske Hackerspace ve starem skleniku ze steelplastu v byvale botanicke zahrade kousek od stareho zidovskeho mesta.
+Zacne si psat denik. Aktivuje vsechny pridane funkce sveho obleceni: krokomer v botach, senzor tlaku a povrchoveho napeti kuze v kalhotach, merak srdecniho tepu a dechove frkvence v kosili, prida timestamp kazdych 300ms z NTP stratum2 a sifrovanou vezi odesila do skryteho repozitare na GitHubu.
+Hele GitHub, vzdyt tam prece ma rozepsanou Mestskou Senzorickou Sit, ktera uz ted poskytuje API temer na vsechny komunikacni prostredky, ktere bezni lidi pouzivaj. V jedne knihovne se vali dokonce temer uplny bot pro pripojeni na ciste textove IRC. No fakt, v roce 2067. Sam tomu neveri, ale podari se mu bota prepsat tak, aby se vyhnul podivnym zakazum, ktere zda se, napadly jeho datove prenosy [rad by veril, ze v opilosti jen blbe nakonfiguroval sve osobni firewally, ale ...], kazdopadne bot mu umozni mluvit v #E-denu.
+Sqatterske Hackerspace E-DEN ve starem skleniku ze steelplastu v byvale botanicke zahrade kousek od stareho zidovskeho mesta.
 Online je jen Tetris [skladam svou osobnost z dilku, a kdyz to sedne, dostavam za to body].
-Dobra holka, ale svihla ja istambulske pocasi, zrzka s prirozenym nadanim pro techniku, ktere u ni vzdycky obdivoval, sand je moc kurva, na jeho meritka. Tohle vazne neni jeho salek kavy, ale...
+Dobra holka, ale svihla jak Istambulske pocasi, zrzka s prirozenym nadanim pro techniku, ktere u ni vzdycky obdivoval, sand je moc kurvi typ, na jeho chut. Tohle vazne neni jeho salek kavy, ale...
 
-Ke svemu bytu dorazi jen chvilku po ni, a jen kouka jak se mu nejakejma sondama hrabe v zamku, ktery zachvilicku udela tiche click a pusti je oba dovnitr.
+Ke svemu bytu dorazi jen chvilku po ni, a jen kouka jak se mu nejakejma sondama hrabe v zamku, ktery zachvilicku udela tiche "click" a pusti je oba dovnitr.
 Nabidne ji neco s prichuti visni, ale ona si v baru vybere skotskou, a necha liker jemu.
-Chvilku nezavazne konverzace, kdy se Scotty dozvi, ze by moh za odemknuti zamku zaplatit Tetris v naturaliich, a ona, ze mu jeste poranu udela vajicka s cibuli. Kdyz to ale neklapne kvuli Scottyho panickemu odporu, praskne Tetris dverma [click, oznami zamek] a zas je jednou sam.
+Chvilku nezavazne konverzace, kdy se Scotty dozvi, ze by moh za odemknuti zamku zaplatit Tetris v naturaliich, a ona, ze mu jeste poranu udela vajicka s cibuli. Kdyz to ale neklapne kvuli Scottyho panickemu odporu, praskne Tetris dverma ["click", oznami zamek] a zas je jednou sam.
 Horka sprcha, konecne. Trideova obrazovka... moment moment, co je tohle [hraje z ni jen a porad okola v loopu tohle: https://www.youtube.com/watch?v=QGEjKoGHzO0]. Prepnout kanaly sice jde, ale vsude je tahle podivna porucha.
-Mikrovlnka, lednicka, micka. Vsechny displaye zobrazuji stejnou kreslenou tvar, co ma hlasovy vystup, melduje porad dokola stejny sum, z nehoz vystupuje podivny, spatne syntetizovany hlas, ktery je jakymsi zvukovym ekvivalentem dopisu psaneho pismeny z rozstrihanych novin.
+Mikrovlnka, lednicka, mycka. Vsechny displaye zobrazuji stejnou kreslenou tvar, co ma hlasovy vystup, melduje porad dokola stejny sum, z nehoz vystupuje podivny, spatne syntetizovany hlas, ktery je jakymsi zvukovym ekvivalentem dopisu psaneho pismeny z rozstrihanych novin.
 Dvere jsou zamcene, stejne kvalitne, jako byly predtim, nez se v nich pohrabala Tetris. Commlink je hluchy.
-Klicova slova: Cytatedl, Tri-optimum... namlacena do zamku dveri pomoci keypadu. Click.
+Klicova slova: Citatel, Tri-optimum... namlacena do zamku dveri pomoci keypadu. "Click".
 Znovu, stejna kombinace na chodbach, a nakonce na zdvizi.
-WTF?! Shoadan, Cytadel, TripOptimum.
-Na kanalu #Eden neni nikdo.. teda Tetris, ta je tam porad, ale z nejakyho duvodu nema moc v planu se s ni bavit.
+WTF?! Shoadan, Citadel, TripOptimum.
+Na kanalu #E-den neni nikdo.. teda Tetris, ta je tam porad, ale z nejakyho duvodu nema moc v planu se s ni bavit.
 
-100kurev se konecne dal dohromady a je asi cas zacit resit co dal. Venku je sedivo a po kapsach zustal jen comlink. Drogy pryc, bagl pryc a na ALici taky sere. Zavola Zee a ta mu navrhne kafe v luxusni restauraci nekde v centru. Neni na to oblecenej, ale copak se tim nekdy zatezoval.
-Kdyz prijde, ceka tam na nej stul s predkrmem kterej kupodivu nesestava ze spatne ochucenene NutriSoji, stejne jako kafe se zda byt pravy. Sklenicka brandy a konecne prichazi Zee. Dlouhy cerny saty, ale piercingy a napul oholena jezata hlava.
-Nezavazny smalltalk a Sergej se pristihne, ze je ve spolecnosti te poulicni doktorky nejakej nesvuj, takze se az pochvili vsimne, ze se jejich hovor stocil k tomu, co vsechno muze sehnat on od svejch cernejch a sedejch kontaktu, a co vsechno by se s tim dalo delat na ulicivh, kde jsou tyhle zabavni jedy vlastne nedostatkovym lecivem. Eurovalky jsou uz davno pryc, ale Zee mluvi tak, jako by v ulicich zuril permanentni boj vicemene neustale. 100kurev se taky pristihne, ze ji vyzvonil, jak jej Alice v noci natahla a ze vlastne nema kde spat.
+100kurev se konecne dal dohromady a je asi cas zacit resit co dal. Venku je sedivo a po kapsach zustal jen comlink. Drogy pryc, bagl pryc a na ALici taky sere. Zavola Zee a ta mu navrhne kafe v luxusni restauraci nekde v centru. Neni na to oblecenej, ale copak se tim nekdy zatezoval?!
+
+Kdyz prijde, ceka tam na nej stul s predkrmem kterej kupodivu nesestava ze spatne ochucenene NutriSoji, stejne jako kafe se zda byt pravy. Sklenicka vodky a konecne prichazi Zee. Dlouhy cerny saty, ale piercingy a napul oholena jezata hlava.
+Nezavazny smalltalk a Sergej se pristihne, ze je ve spolecnosti te poulicni doktorky nejakej nesvuj, takze se az pochvili vsimne, ze se jejich hovor stocil k tomu, co vsechno muze sehnat on od svejch cernejch a sedejch kontaktu, a co vsechno by se s tim dalo delat na ulicivh, kde jsou tyhle zabavni jedy vlastne nedostatkovym lecivem. 
+Eurovalky jsou uz davno pryc, ale Zee mluvi tak, jako by v ulicich zuril permanentni boj vicemene neustale. 100kurev se taky pristihne, ze ji vyzvonil, jak jej Alice v noci natahla a ze vlastne nema kde spat.
+
 Zachvili sedi v taxiku a za dalsi chvili kracej necim co se jmenuje LipSync a dost silne to pripomina Marockej luxusni bordel. Mozna to bude tim, ze je to Marockej Luxusni bodel, primo v centru Red Light Districtu.
 Zee ma jeden apartman jen pro sebe, zabezpeceny docela na urovni, tichy, s vyhledem do atria s rozkosnym parcikem.
 Reci se toci, par sklenicek. Ma dojem, ze jej testuje. Ma dojem, ze i nabidka sexu byla test. Neprijme.
@@ -65,15 +68,15 @@ Vyslech neni ani trosku prijemny a gumova hadice nezanechava stopy.
 Porad dokola: "Kam zmizela dodavka hormonu?!!! Co se deje s chybejicimi kusy tel. Kde jsou hormony? Co ta kurva dela s mrtvolama. MLUV TY HAJZLE!!!"
 Nema jim co ric a tak jim taky nic nerekne. Rano je deset nad nulou a on jen tak jak byl, kdyz jej sebrali, se ocitne na konecne jedne primestske trasy. Zuby ma vsechny ale divne se kejvaj, nos nema zlomenej, zebra boli.
 Uvazuje, jestli ma zavolat Zee, ze po ni jdou fizlove, zatim si to rozmysli a zajede si dat par panaku do Epoxidovyho Svaba, jen tak ze zvyku na male elektricke motorce, kterou pomoci kusu dratu slohne asi nejakymu messangerovi nebo poslickovi s pizzou.
-Tenhle tejde fakt stoji za Amsterdamsky pocasi.
+Tenhle tejden fakt stoji za Amsterdamsky pocasi.
 
-Po noci ztravene v hodinovem hotelu u stare carodenjice toho ma Scott prave tak dost. Tohle xakru neni jeho liga, tohle ho vazne nebavi. V #Edenu je pripojena Tetris a Viktor [Viktor, Viktor Jak Chces].
+Po noci stravene v hodinovem hotelu u stare carodenjice toho ma Scott prave tak dost. Tohle xakru neni jeho liga, tohle ho vazne nebavi. V #E-denu je pripojena Tetris a Viktor [Viktor, Viktor Jak Chces].
 Ten chlapek je sice neprijemnej jak cevkovani dratem, ale snad se s nim nejak domluvi. V deniku zane divnosti, ale na GitHubu v repozitarich porad nekdo s jeho klici pracuje na jeho SenseNet kodu.
-Vazne toh ma dost, potrebuje pomoct, a to dokonce i od lidi jako jsou Tetris a Viktor.
+Vazne toho ma dost, potrebuje pomoct, a to dokonce i od lidi jako jsou Tetris a Viktor.
 Napise jim tedy o nejako tu spetku nehy a Tetris mu rada nabidne svuj gauc, Viktor zas oznami, ze privede nekoho, kdo by mohl znat nekoho, kdo vi, jak se zbavit neuralniho pripojeni, ktery ma Scott zabodnuty v hlave a ktery ho ted stve jak cerstve vytrzenej zub.
 Ta svine, at uz to bylo cokoliv, mu slohla jeho klice sparovany s jeho osobnim wetwarem a jeste mu vyhrozuje [jo, to, ze mu kazdou hodinu zazvoni telefon, kde mu spatne syntetizovanej hlas vyklada neco o podbytostech, vrazde a o tom, ze chce jeho mozek, to uz jej skoro ani nebavi...].
 
-V Edenu sedi a lezi par blaznu, u kterych tezko rict, jestli jsou zfetovani BTL nebo jestli jsou jen pripojeni do hlubokeho Matrix. Viktor a Tetris uz pijou kafe s nejakym divnym chlapkem, kterej jak kdyby vypad z beckovyho tridea predelavky Temnych Andelu od Huntera Tompsona, do kteryho nekdo dodelal tu nevkusnou cat o upirskem baru uprostred mexicke pouste.
+V E-denu IRL sedi a lezi par blaznu, u kterych tezko rict, jestli jsou zfetovani BTL nebo jestli jsou jen pripojeni do hlubokeho Matrix. Viktor a Tetris uz pijou kafe s nejakym divnym chlapkem, kterej jak kdyby vypad z beckovyho tridea predelavky Temnych Andelu od Huntera Tompsona, do kteryho nekdo dodelal tu nevkusnou cast o upirskem baru uprostred mexicke pouste.
 Prej se menuje 100kurev a za nejaky protisluzby nebo prachy dokaze dohodit operaci Scottova mozku.
 To CHCES!!! 
 Scott ma v kapse tak 2 tacy v Coinech a nuEurech a ten pekelnej andel nema ani poradny boty.
@@ -81,19 +84,23 @@ Co je doprdele zas tohle.
 Ukaze se Zee, a rekne si o 25 tacu za cernou operaci.
 Ta blba pica se musela uplne zblaznit, 25 tacu, kurva, kurva, kurva.
 
-Scotty krvaci o zivot.
+O 2 hodiny pozdej:
+>>> Scotty krvaci o zivot.
 Preskocime ted tu cast, kdy si od barmana Ratze v Epoxidovym Svabu poridil automatickou brokovnici.
 Preskocime tu cast, kdy najatej trol dostal do bricha davku ze samopalu.
-Preskocime tu cast, kdy 100kurev sebral tu hroznou brokovnici a uplne nahodou sejmul toho majitele bordelu, nalozil Scotta do auta, a s prostrelenym prichem zamiril za Zee do Triage.
+Preskocime tu cast, kdy 100kurev sebral tu hroznou brokovnici a uplne nahodou sejmul toho majitele bordelu, nalozil Scotta do auta, a s prostrelenym brichem zamiril za Zee do Triage.
 Tohle proste nema cenu, to neni Scottuv styl. Vubec nechape, proc musi lezet na zadni sedacce kradenyho Fordu, krvacet a kricet bolesti. Vubec nechape, proc prestava citit pravou ruku a celou spodni polovinu tela.
 Vsechno je v mlze, rudy mlze. Tresavka, obraz toho, jak brokovnice vzala na prochazku hlavu toho chlapka v saku. Ne ne ne, tohle jsme chteli preskocit.
 
 Tma, pak moc svetla, Zee se sklani s necim, co pak hrozne boli a strasne studi.
 Pak zas nic.
 
+O mesic pozdej:
 Tetris je vlastne hodna holka, kdyz ji rek, ze posledni 3 tydny na jeho Gitu porad pribejva kod, i kdyz uz v hlave nema DataJack a uz vubec mu nikdo nedovolil sednout si a pripojit se, pochopila pomerne rychle.
 Rekla mu, at se diva, a v ruce se ji vizualizoval dracek, slozeny z bezicich radek kodu Matrix.
+
 Travi ted spolecne hodne casu, ona jej uci cist vlastn kod, slozity tak, ze mu nerozumi, ale presto vi, ze nikdo neukrad jeho  klice. To on pise ten kod. Vytvari si hnizdo, z algoritmu necekaneho rozsahu, vlastni ja, utkane z prediva funkci, poli, promennych a osetrenych vyjimek. Tak komplexni, tak uklidnujici.
+
 Sice nemuze ovladat pravou ruku a nohu, ale zato uz vi, ze toho dracka z kodu bude brozo schopny privolat i on sam.
 Tetris to slusi, i kdyz ma pod ocima cim dal vic kruhu a obcas je podivne zamlkla, kdyz spolecne koukaji na Trideu na zpravy o kolonizaci Marzu spolecnosti Tri-Optimum.
 
