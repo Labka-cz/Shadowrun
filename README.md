@@ -1,6 +1,6 @@
 # Shadowrun
 Cyberpunk RPG Shadowrun
-=======================
+===========================(a)
 - Tady si budeme ukladat poznamky o postavach, mapy, zapisy zahranych runu a podobne
 - Prosim klonujte, forkujte a podobne, repo ma zaroven slouzit k vyuce gitu pro Labka Hackerspace
 - Vytvoreny adresare:
