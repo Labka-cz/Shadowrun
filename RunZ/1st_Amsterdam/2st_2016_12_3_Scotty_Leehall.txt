@@ -1,0 +1,6 @@
+Jsem v soukromé nemocnici, stará se o mě moc pěkná sestřička. Nevím kdo to platí a zatím mě to nezajímá. Už udržím pozornost i pár hodin v kuse. Zvět začíná být v pořádku. 
+
+Zatím umím stvořit jenom velice základní sebeudržující struktury. Můj strojový duch (sprite), zatím umí plnit jenom základní příkazy. Počítačoví výzkumníci ze začátku 21. století by jej popsali jako narrow AI s několika cíli, která je schopná se sama regulovat svoje vnitřní proměnné, pohybovat po síťi a vyžívat nedokumentovaných funkcí HW.
+
+Uprostřed mého přemýšlení mě překvapila další silně nečekaná záležitost. Najednou v éteru přestaly proudit všechny wireless datové toky.
+ 
